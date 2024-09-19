@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NGC3992
-- 👀 I’m interested in Network Programming
-- 🌱 I’m currently learning C++, Python and HTML
-- 💞️ I’m looking to collaborate on making simple websites using HTML
+- 👋 Hi, I’m @NGC3992.
+- 👀 I’m interested in Python and C++ development.
+- 🌱 I’m currently learning C++ and Python.
+- 💞️ I’m looking to collaborate on simple Python and C++ applications.
 - 📫 How to reach me? Github!
 
 <!---
